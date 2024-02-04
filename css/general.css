@@ -54,6 +54,10 @@ Parahraph default:  1.6
 html {
   font-size: 62.5%;
   overflow-x: hidden;
+  scroll-behavior: smooth !important;
+  -ms-scroll-behavior: smooth !important;
+  /* Microsoft Edge */
+
 }
 
 body {
